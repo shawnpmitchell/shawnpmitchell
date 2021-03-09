@@ -1,3 +1,6 @@
+Inline-style: 
+![Image saying that WordPress powers 40% of all websites.](https://github.com/shawnpmitchell/images/blob/main/shawn-p-mitchell-wordpress-developer-cover.jpg "WordPress Powers 40% of All Websites")
+
 ### Hi! I’m Shawn. I help small businesses succeed using WordPress.
 
 ## HIGHLIGHTS
