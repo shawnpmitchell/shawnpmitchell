@@ -3,9 +3,13 @@
 ▶ HIGHLIGHTS
 
 • Built themes, child themes, and plugins for the WordPress CMS.
+
 • Remotely managed $40M in assets for 20 DoD customers.
+
 • Published articles reaching over 100,000 paid subscribers.
+
 • Earned over 500,000 views on my YouTube channel.
+
 • Graduated Summa Cum Laude with a Master in Entrepreneurship.
 
 ▶ MY STORY
