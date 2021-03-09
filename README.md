@@ -22,7 +22,7 @@ I love fast, minimal websites.
 
 I also thrive on helping entrepreneurs succeed.
 
-Together, they lead to a WordPress Developer focused on delivering results.
+Together, they lead to a WordPress Content Manager focused on delivering results.
 
 Born in Canada, but raised in the United States, I have visited, worked, or lived in over 60 countries on five continents.
 
@@ -34,7 +34,7 @@ Therefore, you’ll find me laser-focused on customer service. This requires exc
 
 ### SKILLS
 
-HTML | CSS | Javascript | PHP | Sass | MySQL | Visual Studio Code | Git | Github | Command Line Terminal | MAMP | Adobe XD | Adobe Photoshop | Final Cut Pro | Motion 5 | Cloudflare CDN | AMP | Google Analytics | Google Tag Manager | Developer Tools (Chrome and Firefox) | User Experience (UX)
+SEO | HTML | CSS | Javascript | PHP | Sass | MySQL | Visual Studio Code | Git | Github | Command Line Terminal | MAMP | Adobe XD | Adobe Photoshop | Final Cut Pro | Motion 5 | Cloudflare CDN | AMP | Google Analytics | Google Tag Manager | Developer Tools (Chrome and Firefox) | User Experience (UX)
 
 ### HOBBIES & INTERESTS
 
@@ -46,7 +46,7 @@ Please feel free to send me a connection request here on LinkedIn.
 
 Or, if you prefer, send me an email at:
 
-developer@shawnpmitchell.com
+content@shawnpmitchell.com
 
 You can also find me on Twitter:
 
