@@ -50,7 +50,12 @@ developer@shawnpmitchell.com
 
 You can also find me on Twitter:
 
-@shawnpmitchell
+[@shawnpmitchell](https://twitter.com/shawnpmitchell "My Twitter Feed")
+
+And on LinkedIn:
+
+[@shawnpmitchell](https://linkedin.com/in/-shawnpmitchell-/ "My LinkedIn Profile")
+
 
 ### ADDITIONAL INFO
 
