@@ -1,6 +1,6 @@
 ### Hi! I’m Shawn. I help small businesses succeed using WordPress.
 
-▶ HIGHLIGHTS
+## HIGHLIGHTS
 
 • Built themes, child themes, and plugins for the WordPress CMS.
 
@@ -12,7 +12,7 @@
 
 • Graduated Summa Cum Laude with a Master in Entrepreneurship.
 
-▶ MY STORY
+## MY STORY
 
 I love fast, minimal websites. 
 
@@ -28,15 +28,15 @@ Happy Customers = Better Business
 
 Therefore, you’ll find me laser-focused on customer service. This requires excellent communication, organization, time management, and quality assurance skills.
 
-▶ SKILLS
+## SKILLS
 
 HTML | CSS | Javascript | PHP | Sass | MySQL | Visual Studio Code | Git | Github | Command Line Terminal | MAMP | Adobe XD | Adobe Photoshop | Final Cut Pro | Motion 5 | Cloudflare CDN | AMP | Google Analytics | Google Tag Manager | Developer Tools (Chrome and Firefox) | User Experience (UX)
 
-▶ HOBBIES & INTERESTS
+## HOBBIES & INTERESTS
 
 Nature Conservation | Ancient Roman History | Foreign Affairs | Running | Martial Arts | Culinary Arts | Circular Economics | Historical Fiction Writing | Slow Travel | Game Theory
 
-▶ CONTACT ME 
+## CONTACT ME 
 
 Please feel free to send me a connection request here on LinkedIn.
 
@@ -48,7 +48,7 @@ You can also find me on Twitter:
 
 @shawnpmitchell
 
-▶ ADDITIONAL INFO
+## ADDITIONAL INFO
 
 * I am an American citizen authorized to work for any employer in the United States.
 * Currently in Croatia (Central European Time). 
