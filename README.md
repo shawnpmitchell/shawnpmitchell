@@ -1,4 +1,4 @@
-![Image saying that WordPress powers 40% of all websites.](https://github.com/shawnpmitchell/images/blob/main/shawn-p-mitchell-wordpress-developer-website-cover-image.jpg "WordPress Powers 40% of All Websites")
+![Image of a sailing boat off the coast of Malta.](https://github.com/shawnpmitchell/images/blob/main/shawn-p-mitchell-content-manager-website-cover-image.jpg "Sailing The Maltese Coast")
 
 # Hi! I’m Shawn. 
 
